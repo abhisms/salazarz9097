@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @abhishek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+It's me,Abhishek
 
-<!---
-salazarz9097/salazarz9097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Iam interested in web and software devalopment
+
+Iam currently learning python language
+
+You can contact me @abhimyvkn@gmail.com
